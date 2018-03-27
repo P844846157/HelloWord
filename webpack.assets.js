@@ -1,0 +1,1 @@
+window.WEBPACK_ASSETS = {"app":{"js":"./js/app.cfc4c5f8.bundle.js","css":"css/site.b6a2bbd2.css"},"manifest":{"js":"./js/manifest.cfc4c5f8.bundle.js"}}
